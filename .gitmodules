@@ -9,34 +9,34 @@
 	url = https://github.com/lz4/lz4.git
 [submodule "Telegram/lib_crl"]
 	path = Telegram/lib_crl
-	url = https://github.com/desktop-app/lib_crl.git
+	url = https://github.com/BlindMaster24/lib_crl.git
 [submodule "Telegram/lib_rpl"]
 	path = Telegram/lib_rpl
-	url = https://github.com/desktop-app/lib_rpl.git
+	url = https://github.com/BlindMaster24/lib_rpl.git
 [submodule "Telegram/lib_base"]
 	path = Telegram/lib_base
-	url = https://github.com/desktop-app/lib_base.git
+	url = https://github.com/BlindMaster24/lib_base.git
 [submodule "Telegram/codegen"]
 	path = Telegram/codegen
-	url = https://github.com/AyuGram/codegen.git
+	url = https://github.com/BlindMaster24/codegen.git
 [submodule "Telegram/lib_ui"]
 	path = Telegram/lib_ui
-	url = https://github.com/AyuGram/lib_ui.git
+	url = https://github.com/BlindMaster24/lib_ui.git
 [submodule "Telegram/lib_lottie"]
 	path = Telegram/lib_lottie
-	url = https://github.com/desktop-app/lib_lottie.git
+	url = https://github.com/BlindMaster24/lib_lottie.git
 [submodule "Telegram/lib_tl"]
 	path = Telegram/lib_tl
-	url = https://github.com/AyuGram/lib_tl.git
+	url = https://github.com/BlindMaster24/lib_tl.git
 [submodule "Telegram/lib_spellcheck"]
 	path = Telegram/lib_spellcheck
-	url = https://github.com/desktop-app/lib_spellcheck
+	url = https://github.com/BlindMaster24/lib_spellcheck.git
 [submodule "Telegram/lib_storage"]
 	path = Telegram/lib_storage
-	url = https://github.com/desktop-app/lib_storage.git
+	url = https://github.com/BlindMaster24/lib_storage.git
 [submodule "cmake"]
 	path = cmake
-	url = https://github.com/desktop-app/cmake_helpers.git
+	url = https://github.com/BlindMaster24/cmake_helpers.git
 [submodule "Telegram/ThirdParty/expected"]
 	path = Telegram/ThirdParty/expected
 	url = https://github.com/TartanLlama/expected
@@ -45,7 +45,7 @@
 	url = https://github.com/nayuki/QR-Code-generator
 [submodule "Telegram/lib_qr"]
 	path = Telegram/lib_qr
-	url = https://github.com/desktop-app/lib_qr.git
+	url = https://github.com/BlindMaster24/lib_qr.git
 [submodule "Telegram/ThirdParty/hunspell"]
 	path = Telegram/ThirdParty/hunspell
 	url = https://github.com/hunspell/hunspell
@@ -63,13 +63,13 @@
 	url = https://github.com/fcitx/fcitx5-qt.git
 [submodule "Telegram/lib_webrtc"]
 	path = Telegram/lib_webrtc
-	url = https://github.com/desktop-app/lib_webrtc.git
+	url = https://github.com/BlindMaster24/lib_webrtc.git
 [submodule "Telegram/ThirdParty/tgcalls"]
 	path = Telegram/ThirdParty/tgcalls
 	url = https://github.com/TelegramMessenger/tgcalls.git
 [submodule "Telegram/lib_webview"]
 	path = Telegram/lib_webview
-	url = https://github.com/desktop-app/lib_webview.git
+	url = https://github.com/BlindMaster24/lib_webview.git
 [submodule "Telegram/ThirdParty/kimageformats"]
 	path = Telegram/ThirdParty/kimageformats
 	url = https://github.com/KDE/kimageformats.git
@@ -87,10 +87,10 @@
 	url = https://github.com/flatpak/xdg-desktop-portal.git
 [submodule "Telegram/lib_translate"]
 	path = Telegram/lib_translate
-	url = https://github.com/desktop-app/lib_translate
+	url = https://github.com/BlindMaster24/lib_translate.git
 [submodule "Telegram/lib_icu"]
 	path = Telegram/lib_icu
-	url = https://github.com/AyuGram/lib_icu.git
+	url = https://github.com/BlindMaster24/lib_icu.git
 [submodule "Telegram/ThirdParty/cmark-gfm"]
 	path = Telegram/ThirdParty/cmark-gfm
 	url = https://github.com/desktop-app/cmark-gfm.git
