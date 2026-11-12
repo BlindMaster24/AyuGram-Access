@@ -36,8 +36,8 @@ Telegram/lib_ui, lib_base, lib_tl, ...   our forks, branch `a11y`
 Telegram/SourceFiles/ayu/                AyuGram-specific code, where most fixes live
 ```
 
-Patch files and the review tooling live in a separate private repository, so a rebase or a force-push
-on an upstream branch can never destroy the work.
+Every change is also kept as a patch file outside this repository, so an upstream rebase or a
+force-push can never destroy the work.
 
 ## Thanks
 
