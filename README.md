@@ -29,15 +29,15 @@ A report without a speech log cannot be reproduced. Please include:
 An `Accessibility Insights` tree fragment helps for lists and grids, but the speech log is the part
 that matters.
 
-## Layout of the work
+## Branches
 
-```
-Telegram/lib_ui, lib_base, lib_tl, ...   our forks, branch `a11y`
-Telegram/SourceFiles/ayu/                AyuGram-specific code, where most fixes live
-```
+- `dev` - the integration branch and the only long-lived one. Verified changes land here, and releases
+  are tagged here.
+- `fix/<topic>` - one short-lived branch per fix. It is merged into `dev` once the change is verified
+  with a screen reader, then deleted.
 
-Every change is also kept as a patch file outside this repository, so an upstream rebase or a
-force-push can never destroy the work.
+The library forks (`lib_ui`, `lib_base`, `lib_tl`, and the rest) each keep a `dev` branch with our
+changes and an `upstream` remote pointing at the original repository.
 
 ## Thanks
 
